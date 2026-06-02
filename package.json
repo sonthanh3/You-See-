@@ -1,6 +1,6 @@
 {
   "name": "youseeit",
-  "displayName": "YouSeeIt",
+  "displayName": "You See",
   "description": "Learn from your team's bugs and warns before repeat them",
   "version": "0.0.1",
   "engines": {
@@ -45,5 +45,9 @@
   },
   "dependencies": {
     "axios": "^1.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sonthanh3/You-See-.git"
   }
 }
